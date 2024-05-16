@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "name": "Airpods",
+      "subcategory": [
+       " Apple Airpods",
+       " Redmi Airpods",
+       " Samsung Buds"
+      ]
+    },
+    {
+      "name": "Cables",
+      "subcategory": [
+        "Baseus type C cable ",
+        " Iphone Cables",
+        "3 in 1 Redmi cable"
+        ]
+    },
+        {
+          "name": "Charger",
+          "subcategory": [
+            " Iphone Original Adapter ",
+            " Baseus Charger",
+            "Redmi 45w charger"
+          ]
+        },
+    {
+      "name": "PowerBank",
+      "subcategory": [
+        " Apple original power-pack ",
+        "  Baseus 10000 mah Power-bank",
+        " Redmi 20000 mah  power-bank"
+      ]
+    },
+    {
+      "name": "MagSafe",
+      "subcategory": [
+        "Apple Original Mage safe With type C cable "
+      ]
+    },
+    {
+      "name": "Splitter",
+      "subcategory": [
+        "Signal plugger splitter ",
+        "2 in 1 splitter "
+        ]
+    },
+    {
+      "name": "Handfree",
+      "subcategory": [
+        " Iphone jack hand-free",
+        " Iphone type c hand-free ",
+        " Baseus premium sound hand-free",
+        " Baseus band hand-free",
+        " Redmi boost type hand-free"
+
+      ]
+    },
+    {
+      "name": "Headphone",
+      "subcategory": [
+        "  Apple AirPods pro Max headphone",
+        "  Baseus headphone ",
+        "  Monster size headphone"
+      ]
+    },
+    {
+      "name": "Straps",
+      "subcategory": [
+        "   44mm straps",
+        "  45mm straps ",
+        "  46mm straps"
+      ]
+    }
+  ]
+}

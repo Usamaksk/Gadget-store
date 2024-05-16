@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89331142315",
+    "project_id": "gadgetstore-eadb7",
+    "storage_bucket": "gadgetstore-eadb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89331142315:android:1d4e5de020276ce60971ee",
+        "android_client_info": {
+          "package_name": "com.gadgetstore.gadget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD75zSSTKtcEY9WEqDIoBb4q5gBG5RTjFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
